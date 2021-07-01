@@ -1,0 +1,16 @@
+{
+    "name": "tongsq/php-lib",
+    "description": "common php library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "tongsq",
+            "email": "tongsq77@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "CommonLib\\" : "src/" }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
