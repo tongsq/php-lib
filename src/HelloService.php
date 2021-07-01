@@ -5,6 +5,6 @@ class HelloService
 {
     public static function Say()
     {
-        echo "Hello world\n";
+        echo "Hello world222\n";
     }
 }
